@@ -1,4 +1,9 @@
+## Blocks of code
 
+```
+let message = 'Hello world';
+alert(message);
+```
 
 >$ git checkout -b myfeature dev
 
