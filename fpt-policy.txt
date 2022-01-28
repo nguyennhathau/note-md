@@ -1,0 +1,32 @@
+criteria(đánh giá)
+1->5 = D -> A+
+khối lượng và tiến độ(40%)
+chất lượng(40%)
+thái độ(20%)
+A+ excellently
+A well complete
+B complete tasks
+C partially complete
+D not complete tasks
+
+MSC (must should could)
+4 must do
+2 should do
+1 could do
+
+ticket
+it: 
+ssc: 
+
+work done: 80%
+mục tiêu phát triển: 20%
+
+purposes mục đích
+classify, screen and retain employees(phân loại sàn lọc, giữ chân nhân viên)
+
+- montly evaluation(hiệu quả hàng tháng)
+- task completion evaluation
+- annual evaluation(định kỳ tháng 11->12)
+
+- khen thưởng các cá nhân fsoft
+- khen thưởng đơn vị
